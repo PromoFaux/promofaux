@@ -6,7 +6,7 @@ I am Adam - I don't really like writing bios.
 
 [I am on my website](https://adamwarner.co.uk/), where I also waffle on about nothing into the void, but in longer form.
 
-[I am on this website (right here, where you're looking)](https://github.com/promofaux), where I write code for myself and for [Pi-hole](https://github.com/pi-hole).
+[I am on this website (right here, where you're looking)](https://github.com/promofaux)
 
 [I am on Instagram](https://www.instagram.com/promofaux/), where I sometimes post pictures of things I like.
 
